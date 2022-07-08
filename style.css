@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+.imgBox{
+    background:url('https://www.telugubulletin.com/wp-content/uploads/2022/02/images-48-497x616.jpeg') no-repeat center center/cover ;
+    position: relative;
+    height: 9rem;
+    width: 9rem;
+    padding-top: 15px;
+    margin: auto;
+    cursor: pointer;
+    
+}
+.whiteBox{
+    height: 10rem;
+    width: 10rem;
+    margin:10px;
+    display: inline-block;
+    background-color: aliceblue;
+    border: 2px solid;
+}
+.hold{
+    border:2px solid red;
+    background-color: blue;
+    display:none;
+}
+.special{
+    background-color: grey;
+}
